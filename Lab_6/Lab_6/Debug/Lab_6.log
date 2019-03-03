@@ -1,0 +1,7 @@
+﻿  Lab_6.cpp
+d:\univ\aois\lab_6\lab_6\lab_6.cpp(205): warning C4305: return: усечение из "__int64" в "int"
+d:\univ\aois\lab_6\lab_6\lab_6.cpp(205): warning C4309: return: усечение константного значения
+d:\univ\aois\lab_6\lab_6\lab_6.cpp(220): warning C4018: <: несоответствие типов со знаком и без знака
+d:\univ\aois\lab_6\lab_6\lab_6.cpp(278): warning C4018: <: несоответствие типов со знаком и без знака
+d:\univ\aois\lab_6\lab_6\lab_6.cpp(308): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab_6.vcxproj -> D:\Univ\AOIS\Lab_6\Debug\Lab_6.exe
